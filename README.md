@@ -12,6 +12,10 @@
 - **Frontend**: React.js
 - **Styling**: Tailwind CSS
 
+# Project DEMO URL
+[DEMO URL](https://hacker-news-topstories.vercel.app/)
+
+
 # Frontend Part
 
 React JS is used to make the frontend.
@@ -25,9 +29,13 @@ React JS is used to make the frontend.
 
 Fronted is deployed on Vercel.
 
+## Live Demo
 
-[Hacker News Top Stories - Frontend](https://hacker-news-topstories.vercel.app/)
-[Hacker News Top Stories - GitHub](https://github.com/aakassh16/hacker-news-topstories)
+[Frontend URL](https://hacker-news-topstories.vercel.app/)
+
+## GitHub Repository
+
+[GitHub URL](https://github.com/aakassh16/hacker-news-topstories)
 
 
 
@@ -47,6 +55,8 @@ Hacker News API for Top Stories - https://hacker-news.firebaseio.com/v0/topstori
 
 Backend is deployed in Render.
 
-Backend URL - https://hacker-news-topstories-backend.onrender.com/top-stories (Kindly using any JSON Formatter)
-Github URL - https://github.com/aakassh16/hacker-news-topstories-backend
+## Live Demo
+[Backend URL](https://hacker-news-topstories-backend.onrender.com/top-stories)
 
+## GitHub Repository
+[GitHub URL](https://github.com/aakassh16/hacker-news-topstories-backend)
