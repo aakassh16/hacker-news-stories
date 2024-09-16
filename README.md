@@ -12,7 +12,7 @@
 - **Frontend**: React.js
 - **Styling**: Tailwind CSS
 
-## Frontend Part
+# Frontend Part
 
 React JS is used to make the frontend.
 
@@ -25,8 +25,10 @@ React JS is used to make the frontend.
 
 Fronted is deployed on Vercel.
 
-Frontend URL - https://hacker-news-topstories.vercel.app/
-Github URL - https://github.com/aakassh16/hacker-news-topstories
+
+[Hacker News Top Stories - Frontend](https://hacker-news-topstories.vercel.app/)
+[Hacker News Top Stories - GitHub](https://github.com/aakassh16/hacker-news-topstories)
+
 
 
 # Backend Part
